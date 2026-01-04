@@ -1,2 +1,1 @@
-print(" New Hello Git!")
-print("Ahora edito el fichero")
+print(" New Hello GitHub!")
